@@ -1,3 +1,3 @@
-# simonepesce.github.io
+# simonepesce
 
 My website
